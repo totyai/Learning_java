@@ -1,2 +1,2 @@
 # Learning
-This folder contains all the projects/challanges in different branches that i have created during my Java learning.
+This game will ask the use for input on changes remaining and will calculate how many coins as minimum needs to be given back.
