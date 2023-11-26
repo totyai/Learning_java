@@ -1,2 +1,3 @@
 # Learning
-This folder contains all the projects/challanges in different branches that i have created during my Java learning.
+This branch contains a program, that checks and validates a user password change.
+The password should have: Uppercase letter, Special characters, and not the username: "johndoe"
