@@ -1,2 +1,2 @@
 # Learning
-This folder contains all the projects/challanges in different branches that i have created during my Java learning.
+This branch contains a game, where the user needs to select pennies, dimes, quaters to add up to exactly 1 dollar..
