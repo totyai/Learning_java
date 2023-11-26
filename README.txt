@@ -1,2 +1,2 @@
 # Learning
-This folder contains all the projects/challanges in different branches that i have created during my Java learning.
+This branch contains a game were based on 5 dice roll, the player should reach 20 spaces in a game board
